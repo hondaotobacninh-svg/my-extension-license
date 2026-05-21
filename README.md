@@ -1,1 +1,1 @@
-# my-extension-license
+active
